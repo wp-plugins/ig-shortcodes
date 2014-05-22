@@ -3,6 +3,7 @@ Contributors: iografica
 Tags: shortcode, shortcodes, short code, responsive, tab, tabs, button, buttons, jquery, alert box, alert boxes, toggle, column, columns, services, service, pull quote, list, lists, jquery tabs, accordion, plugin, icon, icons
 Requires at least: 3.5
 Tested up to: 3.9
+Stable tag: trunk
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -10,14 +11,16 @@ A complete set of WordPress shortcodes to add beautiful and useful elements to y
 
 == Description ==
 IG Shortcodes is a complete set of WordPress shortcodes to add beautiful and useful elements to your theme.
-With this plugin you can easily create buttons, social icons, columns, toggles, accordion, tabs, alert boxes,quote, box features and list. 
+With this plugin you can easily create buttons, social icons, columns, toggles, accordion, tabs, alert boxes, quote, box features and list. 
 With IG Shortcodes you can turn your free theme to premium in just a few clicks.
 
 = IG Shortcodes Premium =
-* [IG Shortcodes Premium](http://themes.iografica.it/downloads/ig-shortcodes-premium) add additional shortcodes and give access to priority support.
-* Premium shortcodes:
+[IG Shortcodes Premium](http://themes.iografica.it/downloads/ig-shortcodes-premium) add additional shortcodes and give access to priority support.
+
+= Premium shortcodes =
 * Box features
 * Icon list
+* Price table
 
 = Documentation =
 * [Documentation](http://themes.iografica.it/documentation/ig-shortcodes-premium/)
