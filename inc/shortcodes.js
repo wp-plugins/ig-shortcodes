@@ -1,19 +1,19 @@
 jQuery(function() {
 	
-	/* Accordion */
-	jQuery('.ig-shortcode-toggle-active').each(function() {
-		jQuery(this).find('.ig-shortcode-toggle-content').show();
+	/* Toggle */
+	jQuery('.toggle-active').each(function() {
+		jQuery(this).find('.toggle-content').show();
 	});
-	jQuery('.ig-shortcode-toggle .ig-shortcode-toggle-heading').click(function() {
+	jQuery('.ig-shortcode-toggle .toggle-heading').click(function() {
 		var toggle = jQuery(this).parent('.ig-shortcode-toggle');
-		if(jQuery(this).parent('.ig-shortcode-toggle').parent('div').hasClass('ig-shortcode-accordion')) {
-			toggle.parent('div').find('.ig-shortcode-toggle').find('.ig-shortcode-toggle-content:visible').slideUp();
-			toggle.parent('div').find('.ig-shortcode-toggle-active').removeClass('ig-shortcode-toggle-active');
-			toggle.toggleClass('ig-shortcode-toggle-active');
-			toggle.find('.ig-shortcode-toggle-content').slideToggle(400);
+		if(jQuery(this).parent('.ig-shortcode-toggle').parent('div').hasClass('ig-shortcode-toggle')) {
+			toggle.parent('div').find('.ig-shortcode-toggle').find('.toggle-content:visible').slideUp();
+			toggle.parent('div').find('.toggle-active').removeClass('toggle-active');
+			toggle.toggleClass('toggle-active');
+			toggle.find('.toggle-content').slideToggle(400);
 		} else {
-			toggle.toggleClass('ig-shortcode-toggle-active');
-			toggle.find('.ig-shortcode-toggle-content').slideToggle(400);
+			toggle.toggleClass('toggle-active');
+			toggle.find('.toggle-content').slideToggle(400);
 		}
 	});
 	
