@@ -1,7 +1,7 @@
 jQuery(function() {
 	
 	/* Toggle */
-	jQuery('.toggle-active').each(function() {
+	jQuery('.ig-shortcode-toggle-active').each(function() {
 		jQuery(this).find('.toggle-content').show();
 	});
 	jQuery('.ig-shortcode-toggle .toggle-heading').click(function() {

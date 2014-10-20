@@ -79,7 +79,7 @@
                 {
                     text: '...more shortcodes',
                     onclick: function() {
-                    window.open('http://www.yourdomain.com','_blank');
+                    window.open('http://themes.iografica.it/downloads/ig-shortcodes-premium/','_blank');
                     },
                 },	
 			]

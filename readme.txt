@@ -33,3 +33,7 @@ With IG Shortcodes you can turn your free theme to premium in just a few clicks.
 * Add more button styles (clean and puffy style)
 * Toggles css fix
 * Add responsive css
+
+= 1.3 =
+* Fix toggle open attributes
+* Fix editor bug
