@@ -7,19 +7,19 @@ function register_my_custom_menu_page(){
 
 function ig_shortcodes_menu_page() { ?>
   <div class="wrap">
-  <h2>IG Shotcodes</h2>
+  <h2><?php echo __('IG Shortcodes',"ig-shortcodes"); ?></h2>
 <div class="menu">
-  <a href="http://themes.iografica.it/downloads/ig-shortcodes/">Project homepage</a> | <a href="http://themes.iografica.it/document/shortcodes-attributes/">Documentation</a> | <a href="http://themes.iografica.it/premium-support/">Support</a> | <a href="https://wordpress.org/plugins/ig-shortcodes/">Changelog</a>
+  <a href="http://themes.iografica.it/downloads/ig-shortcodes/"><?php echo __('Product page',"ig-shortcodes"); ?></a> | <a href="http://themes.iografica.it/document/shortcodes-attributes/"><?php echo __('Documentation',"ig-shortcodes"); ?></a> | <a href="http://themes.iografica.it/premium-support/"><?php echo __('Support',"ig-shortcodes"); ?></a> | <a href="https://wordpress.org/plugins/ig-shortcodes/"><?php echo __('Changelog',"ig-shortcodes"); ?></a>
 </div>
       <div class="widget-liquid-left">
-			<h3>Shortcodes features</h3>
+			<h3><?php echo __('Shortcodes features',"ig-shortcodes"); ?></h3>
 			<ul>
-				<li>Amazing shortcodes</li>
-				<li>Power of CSS3 transitions</li>
-				<li>Powerful shortcodes customization</li>
-				<li>SEO Optimized</li>
-                <li>Documented</li>
-                <li>More features will to come...</li>
+				<li><?php echo __('Amazing shortcodes',"ig-shortcodes"); ?></li>
+				<li><?php echo __('Power of CSS3 transitions',"ig-shortcodes"); ?></li>
+				<li><?php echo __('Powerful shortcodes customization',"ig-shortcodes"); ?></li>
+				<li><?php echo __('SEO Optimized',"ig-shortcodes"); ?></li>
+                <li><?php echo __('Documented',"ig-shortcodes"); ?></li>
+                <li><?php echo __('More features will to come...',"ig-shortcodes"); ?></li>
 			</ul>
           <h3><?php echo __('Iografica Themes', "ig-shortcodes"); ?></h3>
                     <a title="Facebook" href="https://www.facebook.com/themes.iografica" target="_blank">
@@ -44,21 +44,16 @@ function ig_shortcodes_menu_page() { ?>
 
 <div class="widget-liquid-right">
     <div style="padding:0 15px 15px 15px; margin-top:15px; border:1px solid #dedede; background:#fff;">
-    <h3>IG Shotcodes Premium</h3>
-     <p>Upgrade to premium version to have access to all shortcodes and priority support.</p>
-    <h3>Shortcodes included</h3>
+    <h3><?php echo __('IG Shotcodes Premium',"ig-shortcodes"); ?></h3>
+     <p><?php echo __('Upgrade to premium version to have access to all shortcodes and priority support.',"ig-shortcodes"); ?></p>
+    <h3><?php echo __('Shortcodes included',"ig-shortcodes"); ?></h3>
 <ul>
-	<li>Customizable buttons</li>
-	<li>Simple columns layout</li>
-    <li>Beautiful icon</li>
-    <li>Heading elements</li>
-	<li>Toggles, tabs and accordion</li>
-	<li>Notice boxes to display your message</li>
-	<li>Login box and protect content</li>
-	<li>Post image gallery</li>
-	<li>Pricing tables and testimonials</li>
+	<li><?php echo __('Author box',"ig-shortcodes"); ?></li>
+	<li><?php echo __('Login box and protect content',"ig-shortcodes"); ?></li>
+	<li><?php echo __('Post image gallery',"ig-shortcodes"); ?></li>
+	<li><?php echo __('Pricing tables and testimonials',"ig-shortcodes"); ?></li>
 </ul>
-    <a class="button-primary" href="http://themes.iografica.it/downloads/ig-shortcodes-premium/">Order now</a>
+    <a class="button-primary" href="http://themes.iografica.it/downloads/ig-shortcodes-premium/"><?php echo __('Order Now',"ig-shortcodes"); ?></a>
      </div>
     </div>
 </div>

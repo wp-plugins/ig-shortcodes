@@ -49,3 +49,8 @@ For plugin documentation visit: http://themes.iografica.it/document/shortcodes-a
 * Add accordion shortcode
 * Add heading shortcode
 * Add icon shortcode
+
+= 1.5 =
+* fix textdomain function error
+* Minor css icon fix
+* Add divider shortcode

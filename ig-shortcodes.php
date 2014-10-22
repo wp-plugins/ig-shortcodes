@@ -3,7 +3,7 @@
  * Plugin Name:IG Shortcodes
  * Plugin URI: http://themes.iografica.it/downloads/ig-shortcodes
  * Description: A complete set of WordPress shortcodes to add beautiful and useful elements to your theme.
- * Version: 1.5
+ * Version: 1.6
  * Author: iografica
  * Author URI: http://themes.iografica.it/
  * License: GNU General Public License v2 or later
@@ -161,6 +161,21 @@ function ig_shortcodes_clearfix( $atts, $content = null ) {
 return '<div class="ig-clearfix"></div>';
 }
 add_shortcode( 'ig_clearfix', 'ig_shortcodes_clearfix' );
+
+/*************************************************
+DIVIDER
+*************************************************/
+function ig_shortcodes_divider($atts, $content = null) {
+
+	/* Set up variables */
+	extract(shortcode_atts(array(
+		'style' => ''
+		), $atts));
+		
+	return '<span class="ig-divider '.$style.'"></span>';
+
+}
+add_shortcode('ig_divider', 'ig_shortcodes_divider');
 
 /*************************************************
 TABS
