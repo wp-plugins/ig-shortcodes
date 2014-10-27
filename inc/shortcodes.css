@@ -290,6 +290,7 @@ border:2px solid #34495e;
 	background: -ms-linear-gradient(left,  rgba(255,255,255,0) 0%,rgba(222,222,222,1) 25%,rgba(222,222,222,1) 75%,rgba(255,255,255,0) 100%);
 	background: linear-gradient(to right,  rgba(255,255,255,0) 0%,rgba(222,222,222,1) 25%,rgba(222,222,222,1) 75%,rgba(255,255,255,0) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#00ffffff',GradientType=1 );
+	border-bottom:none;
  }
   .ig-divider.dotted{
 	background: none;
@@ -411,14 +412,15 @@ h2.ig-heading.left {
 }
 
 /* Icons */
+.genericon.normal {
+    font-size: 22px;
+}
 .genericon.medium {
-    font-size: 2em;
-    margin: 5px;
+    font-size: 40px;
     vertical-align: middle;
 }
 .genericon.large {
-    font-size: 3em;
-    margin: 5px;
+    font-size: 60px;
     vertical-align: middle;
 }
 

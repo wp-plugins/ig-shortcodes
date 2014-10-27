@@ -3,7 +3,7 @@
  * Plugin Name:IG Shortcodes
  * Plugin URI: http://themes.iografica.it/downloads/ig-shortcodes
  * Description: A complete set of WordPress shortcodes to add beautiful and useful elements to your theme.
- * Version: 1.6
+ * Version: 1.7
  * Author: iografica
  * Author URI: http://themes.iografica.it/
  * License: GNU General Public License v2 or later
@@ -217,7 +217,7 @@ function ig_shortcodes_toggle($atts, $content = null) {
 	), $atts));
 	if($onload == "open") { $active_class = "ig-shortcode-toggle-active"; } else { $active_class = ""; }
 		
-	return '<div class="ig-shortcode-toggle '.$active_class.'"><h3 class="toggle-heading">'.$icon_code.$heading.$toggle_icons.'</h3><div class="toggle-content"><p>'.do_shortcode($content).'</p></div></div>';
+return '<div class="ig-shortcode-toggle '.$active_class.'"><h3 class="toggle-heading">'.$heading.'</h3><div class="toggle-content"><p>'.do_shortcode($content).'</p></div></div>';
 
 }
 add_shortcode('ig_toggle', 'ig_shortcodes_toggle');

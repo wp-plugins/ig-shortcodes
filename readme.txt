@@ -50,7 +50,11 @@ For plugin documentation visit: http://themes.iografica.it/document/shortcodes-a
 * Add heading shortcode
 * Add icon shortcode
 
-= 1.5 =
+= 1.6 =
 * fix textdomain function error
 * Minor css icon fix
 * Add divider shortcode
+
+= 1.7 =
+* Minor css fix
+* Toggle bug fix
