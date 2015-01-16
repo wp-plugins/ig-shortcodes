@@ -2,7 +2,7 @@
 Contributors: iografica
 Tags: shortcode, shortcodes, responsive, tab, tabs, button, buttons, notice box, toggle, column, columns, tab, tabs, plugin
 Requires at least: 3.5
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
