@@ -9,7 +9,7 @@ function ig_shortcodes_menu_page() { ?>
   <div class="wrap">
   <h2><?php echo __('IG Shortcodes',"ig-shortcodes"); ?></h2>
 <div class="menu">
-  <a href="http://themes.iografica.it/downloads/ig-shortcodes/"><?php echo __('Product page',"ig-shortcodes"); ?></a> | <a href="http://themes.iografica.it/document/shortcodes-attributes/"><?php echo __('Documentation',"ig-shortcodes"); ?></a> | <a href="http://themes.iografica.it/premium-support/"><?php echo __('Support',"ig-shortcodes"); ?></a> | <a href="https://wordpress.org/plugins/ig-shortcodes/"><?php echo __('Changelog',"ig-shortcodes"); ?></a>
+  <a href="http://www.iograficathemes.com/downloads/ig-shortcodes/"><?php echo __('Product page',"ig-shortcodes"); ?></a> | <a href="http://www.iograficathemes.com/document/shortcodes-attributes/"><?php echo __('Documentation',"ig-shortcodes"); ?></a> | <a href="http://www.iograficathemes.com/premium-support/"><?php echo __('Support',"ig-shortcodes"); ?></a> | <a href="https://wordpress.org/plugins/ig-shortcodes/"><?php echo __('Changelog',"ig-shortcodes"); ?></a>
 </div>
       <div class="widget-liquid-left">
 			<h3><?php echo __('Shortcodes features',"ig-shortcodes"); ?></h3>
@@ -22,7 +22,7 @@ function ig_shortcodes_menu_page() { ?>
                 <li><?php echo __('More features will to come...',"ig-shortcodes"); ?></li>
 			</ul>
           <h3><?php echo __('Iografica Themes', "ig-shortcodes"); ?></h3>
-                    <a title="Facebook" href="https://www.facebook.com/themes.iografica" target="_blank">
+                    <a title="Facebook" href="https://www.facebook.com/iograficathemes" target="_blank">
                     <span class="facebook"><?php echo __('Facebook', "ig-shortcodes"); ?></span>
                     </a>
                     <?php echo __(' | ', "ig-shortcodes"); ?>
@@ -30,7 +30,7 @@ function ig_shortcodes_menu_page() { ?>
                     <span class="twitter"><?php echo __('Twitter',"ig-shortcodes"); ?></span>
                     </a>
                     <?php echo __(' | ', "ig-shortcodes"); ?>
-					<a title="Iografica Themes" href="http://themes.iografica.it/" target="_blank">
+					<a title="Iografica Themes" href="http://www.iograficathemes.com/" target="_blank">
                     <span class="website"><?php echo __('Website',"ig-shortcodes"); ?></span>
                     </a>
 					<p><?php echo __('Sign up to our newsletter and get a discount coupon.',  "ig-shortcodes"); ?></p>
@@ -53,7 +53,7 @@ function ig_shortcodes_menu_page() { ?>
 	<li><?php echo __('Post image gallery',"ig-shortcodes"); ?></li>
 	<li><?php echo __('Pricing tables and testimonials',"ig-shortcodes"); ?></li>
 </ul>
-    <a class="button-primary" href="http://themes.iografica.it/downloads/ig-shortcodes-premium/"><?php echo __('Order Now',"ig-shortcodes"); ?></a>
+    <a class="button-primary" href="http://www.iograficathemes.com/downloads/ig-shortcodes-premium/"><?php echo __('Order Now',"ig-shortcodes"); ?></a>
      </div>
     </div>
 </div>

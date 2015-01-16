@@ -3,9 +3,9 @@
  * Plugin Name:IG Shortcodes
  * Plugin URI: http://themes.iografica.it/downloads/ig-shortcodes
  * Description: A complete set of WordPress shortcodes to add beautiful and useful elements to your theme.
- * Version: 1.7
+ * Version: 1.8
  * Author: iografica
- * Author URI: http://themes.iografica.it/
+ * Author URI: http://www.iograficathemes.com/
  * License: GNU General Public License v2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */

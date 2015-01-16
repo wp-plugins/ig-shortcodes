@@ -58,3 +58,6 @@ For plugin documentation visit: http://themes.iografica.it/document/shortcodes-a
 = 1.7 =
 * Minor css fix
 * Toggle bug fix
+
+= 1.8 =
+* fix author link
