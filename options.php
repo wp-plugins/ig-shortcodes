@@ -33,13 +33,6 @@ function ig_shortcodes_menu_page() { ?>
 					<a title="Iografica Themes" href="http://www.iograficathemes.com/" target="_blank">
                     <span class="website"><?php echo __('Website',"ig-shortcodes"); ?></span>
                     </a>
-					<p><?php echo __('Sign up to our newsletter and get a discount coupon.',  "ig-shortcodes"); ?></p>
-                    <div id="mc_embed_signup">
-					<form action="//iografica.us2.list-manage.com/subscribe/post?u=14e09f1fb92769d69dfd5ea17&amp;id=5fd8564ba4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    				<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-					</form>
-	                </div>
         </div>
 
 <div class="widget-liquid-right">
@@ -52,6 +45,7 @@ function ig_shortcodes_menu_page() { ?>
 	<li><?php echo __('Login box and protect content',"ig-shortcodes"); ?></li>
 	<li><?php echo __('Post image gallery',"ig-shortcodes"); ?></li>
 	<li><?php echo __('Pricing tables and testimonials',"ig-shortcodes"); ?></li>
+    <li><?php echo __('Display Wordpress widgets in content',"ig-shortcodes"); ?></li>
 </ul>
     <a class="button-primary" href="http://www.iograficathemes.com/downloads/ig-shortcodes-premium/"><?php echo __('Order Now',"ig-shortcodes"); ?></a>
      </div>

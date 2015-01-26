@@ -61,3 +61,6 @@ For plugin documentation visit: http://themes.iografica.it/document/shortcodes-a
 
 = 1.8 =
 * fix author link
+
+= 1.9 =
+* Minor fix
