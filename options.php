@@ -9,7 +9,7 @@ function ig_shortcodes_menu_page() { ?>
   <div class="wrap">
   <h2><?php echo __('IG Shortcodes',"ig-shortcodes"); ?></h2>
 <div class="menu">
-  <a href="http://www.iograficathemes.com/downloads/ig-shortcodes/"><?php echo __('Product page',"ig-shortcodes"); ?></a> | <a href="http://www.iograficathemes.com/document/shortcodes-attributes/"><?php echo __('Documentation',"ig-shortcodes"); ?></a> | <a href="http://www.iograficathemes.com/premium-support/"><?php echo __('Support',"ig-shortcodes"); ?></a> | <a href="https://wordpress.org/plugins/ig-shortcodes/"><?php echo __('Changelog',"ig-shortcodes"); ?></a>
+  <a href="http://www.iograficathemes.com/downloads/ig-shortcodes/"><?php echo __('Product page',"ig-shortcodes"); ?></a> | <a href="http://www.iograficathemes.com/document/shortcodes-attributes/"><?php echo __('Documentation',"ig-shortcodes"); ?></a> | <a href="https://wordpress.org/support/plugin/ig-shortcodes/"><?php echo __('Support',"ig-shortcodes"); ?></a> | <a href="https://wordpress.org/plugins/ig-shortcodes/"><?php echo __('Changelog',"ig-shortcodes"); ?></a>
 </div>
       <div class="widget-liquid-left">
 			<h3><?php echo __('Shortcodes features',"ig-shortcodes"); ?></h3>
@@ -30,6 +30,10 @@ function ig_shortcodes_menu_page() { ?>
                     <span class="twitter"><?php echo __('Twitter',"ig-shortcodes"); ?></span>
                     </a>
                     <?php echo __(' | ', "ig-shortcodes"); ?>
+					<a title="Google Plus" href="https://plus.google.com/111064256285067685536/" target="_blank">
+                    <span class="google"><?php echo __('Google Plus',"ig-shortcodes"); ?></span>
+                    </a>
+                    <?php echo __(' | ', "ig-shortcodes"); ?>
 					<a title="Iografica Themes" href="http://www.iograficathemes.com/" target="_blank">
                     <span class="website"><?php echo __('Website',"ig-shortcodes"); ?></span>
                     </a>
@@ -45,7 +49,7 @@ function ig_shortcodes_menu_page() { ?>
 	<li><?php echo __('Login box and protect content',"ig-shortcodes"); ?></li>
 	<li><?php echo __('Post image gallery',"ig-shortcodes"); ?></li>
 	<li><?php echo __('Pricing tables and testimonials',"ig-shortcodes"); ?></li>
-    <li><?php echo __('Display Wordpress widgets in content',"ig-shortcodes"); ?></li>
+    <li><?php echo __('Display WordPress widgets in content',"ig-shortcodes"); ?></li>
 </ul>
     <a class="button-primary" href="http://www.iograficathemes.com/downloads/ig-shortcodes-premium/"><?php echo __('Order Now',"ig-shortcodes"); ?></a>
      </div>

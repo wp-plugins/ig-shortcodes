@@ -64,3 +64,8 @@ For plugin documentation visit: http://themes.iografica.it/document/shortcodes-a
 
 = 1.9 =
 * Minor fix
+
+= 2.0 =
+* Minor options fix
+* Upadated language .po file
+* Added Serbo-Croatian language thanks to Borisa Djuraskovic of Web Hosting Hub community team. 
