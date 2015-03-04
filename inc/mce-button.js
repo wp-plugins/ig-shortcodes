@@ -19,7 +19,7 @@
 				{
 					text: 'Button',
 					onclick: function() {
-					editor.insertContent('[ig_button size="medium" color="gray" style="normal" link="http://themes.iografica.it" target="_blank"]more info[/ig_button]');
+					editor.insertContent('[ig_button size="medium" color="gray" style="normal" link="http://iograficathemes.com" target="_blank"]more info[/ig_button]');
 					},
 				},
 				// COLUMNS
@@ -79,6 +79,13 @@
 					editor.insertContent('[ig_icon icon="genericon-rating-empty" size="normal"]');						
 					},		
 				},
+                // ICONS
+				{
+					text: 'Map',
+					onclick: function() {
+					editor.insertContent('[ig_map coordinates="44.812284,-91.497729" address="Eau Claire St" width="660px" height="400px"]');			
+					},		
+				},
 				// NOTICEBOX
 				{
 					text: 'Notice Box',
@@ -103,7 +110,7 @@
                 {
                     text: '...more shortcodes',
                     onclick: function() {
-                    window.open('http://themes.iografica.it/downloads/ig-shortcodes-premium/','_blank');
+                    window.open('http://iograficathemes.com/downloads/ig-shortcodes-premium/','_blank');
                     },
                 },	
 			]

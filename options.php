@@ -30,7 +30,7 @@ function ig_shortcodes_menu_page() { ?>
                     <span class="twitter"><?php echo __('Twitter',"ig-shortcodes"); ?></span>
                     </a>
                     <?php echo __(' | ', "ig-shortcodes"); ?>
-					<a title="Google Plus" href="https://plus.google.com/111064256285067685536/" target="_blank">
+					<a title="Google Plus" href="https://plus.google.com/+Iograficathemes/" target="_blank">
                     <span class="google"><?php echo __('Google Plus',"ig-shortcodes"); ?></span>
                     </a>
                     <?php echo __(' | ', "ig-shortcodes"); ?>
