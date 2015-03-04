@@ -13,8 +13,7 @@ A complete set of WordPress shortcodes to add beautiful and useful elements to y
 IG Shortcodes is a complete set of WordPress shortcodes to add beautiful and useful elements to your theme.
 With IG Shortcodes you can turn your free theme to premium in just a few clicks.
 
-Shortcodes inluded:
---
+== Shortcodes inluded: == 
 * Accordion
 * Buttons
 * Notice box
@@ -27,12 +26,10 @@ Shortcodes inluded:
 * Icons
 * Google maps
 
-IG Shortcodes Premium
---
+== IG Shortcodes Premium == 
 For more shortcodes you can download the [premium version](http://iograficathemes.com/downloads/ig-shortcodes-premium/)
 
 Extra shortcodes of premium version:
---
 * Login module
 * Logged in user content
 * Author box
