@@ -29,7 +29,7 @@ With IG Shortcodes you can turn your free theme to premium in just a few clicks.
 = IG Shortcodes Premium =
 For more shortcodes you can download the [premium version](http://iograficathemes.com/downloads/ig-shortcodes-premium/)
 
-**Extra shortcodes in premium version:**
+= Extra shortcodes in premium version: =
 * Login module
 * Logged in user content
 * Author box
