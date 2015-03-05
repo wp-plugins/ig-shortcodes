@@ -58,14 +58,14 @@
                     }
                            ]
                 },
-				// CLLEARFIX
+				// CLEARFIX
 				{
 					text: 'Clearfix',
 					onclick: function() {
 					editor.insertContent('[ig_clearfix]');						
 					},	
 				},
-				// CLLEARFIX
+				// DIVIDER
 				{
 					text: 'Divider',
 					onclick: function() {
@@ -86,7 +86,7 @@
 					editor.insertContent('[ig_map coordinates="44.812284,-91.497729" address="Eau Claire St" width="660px" height="400px"]');			
 					},		
 				},
-				// NOTICEBOX
+				// NOTICE BOX
 				{
 					text: 'Notice Box',
 					onclick: function() {
@@ -112,7 +112,7 @@
                     onclick: function() {
                     window.open('http://iograficathemes.com/downloads/ig-shortcodes-premium/','_blank');
                     },
-                },	
+                },
 			]
 		});
 	});
