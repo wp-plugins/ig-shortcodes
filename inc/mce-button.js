@@ -79,7 +79,7 @@
 					editor.insertContent('[ig_icon icon="genericon-rating-empty" size="normal"]');						
 					},		
 				},
-                // ICONS
+                // MAP
 				{
 					text: 'Map',
 					onclick: function() {

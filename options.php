@@ -50,6 +50,7 @@ function ig_shortcodes_menu_page() { ?>
 	<li><?php echo __('Post image gallery',"ig-shortcodes"); ?></li>
 	<li><?php echo __('Pricing tables and testimonials',"ig-shortcodes"); ?></li>
     <li><?php echo __('Display WordPress widgets in content',"ig-shortcodes"); ?></li>
+    <li><?php echo __('Related posts',"ig-shortcodes"); ?></li>
 </ul>
     <a class="button-primary" href="http://www.iograficathemes.com/downloads/ig-shortcodes-premium/"><?php echo __('Order Now',"ig-shortcodes"); ?></a>
      </div>

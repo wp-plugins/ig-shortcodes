@@ -95,3 +95,6 @@ For plugin documentation visit: http://iograficathemes.com/document/shortcodes-a
 
 = 2.1 =
 * Added Google Maps shortcode.
+
+= 2.2 =
+* Minor fix.
