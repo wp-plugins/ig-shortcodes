@@ -36,6 +36,7 @@ For more shortcodes you can download the [premium version](http://iograficatheme
 * Pricing table
 * Posts image gallery
 * Wordpress default widgets display
+* Related posts
 
 == Installation ==
 1. Download the plugin.
