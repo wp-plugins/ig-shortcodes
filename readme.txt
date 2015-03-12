@@ -38,6 +38,12 @@ For more shortcodes you can download the [premium version](http://iograficatheme
 * Wordpress default widgets display
 * Related posts
 
+= Available languages =
+* Italian
+* Serbo-Croatian
+* Spanish
+Have a translation? Contact us and submit your translation!
+
 == Installation ==
 1. Download the plugin.
 2. Unzip the folder into the `/wp-content/plugins/` directory.
@@ -99,3 +105,6 @@ For plugin documentation visit: http://iograficathemes.com/document/shortcodes-a
 
 = 2.2 =
 * Minor fix.
+
+= 2.3 =
+* Added Spanish language thanks to Borisa Djuraskovic of FirstSiteGuide. 
