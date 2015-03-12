@@ -42,6 +42,7 @@ For more shortcodes you can download the [premium version](http://iograficatheme
 * Italian
 * Serbo-Croatian
 * Spanish
+--
 Have a translation? Contact us and submit your translation!
 
 == Installation ==
