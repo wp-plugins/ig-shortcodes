@@ -2,7 +2,7 @@
 Contributors: iografica
 Tags: shortcode, shortcodes, responsive, tab, tabs, button, buttons, notice box, toggle, column, columns, tab, tabs, plugin, google maps
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ A complete set of WordPress shortcodes to add beautiful and useful elements to y
 IG Shortcodes is a complete set of WordPress shortcodes to add beautiful and useful elements to your theme.
 With IG Shortcodes you can turn your free theme to premium in just a few clicks.
 
-= Shortcodes inluded: = 
+= Shortcodes inluded: =
 * Accordion
 * Buttons
 * Notice box
@@ -22,7 +22,7 @@ With IG Shortcodes you can turn your free theme to premium in just a few clicks.
 * Divider
 * Tabs
 * Toggle
-* Heading 
+* Heading
 * Icons
 * Google maps
 
@@ -107,4 +107,7 @@ For plugin documentation visit: http://iograficathemes.com/document/shortcodes-a
 * Minor fix.
 
 = 2.3 =
-* Added Spanish language thanks to Borisa Djuraskovic of FirstSiteGuide. 
+* Added Spanish language thanks to Borisa Djuraskovic of FirstSiteGuide.
+
+= 2.4 =
+* Added plugin class.
